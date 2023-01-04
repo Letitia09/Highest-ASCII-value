@@ -3,7 +3,7 @@
 
 Write a program to analyze the characters in a given string Str and find N, the number of occurrences of the character having the highest ASC value Then print the character having the lowest ASCII value in Str, N times. The string Str can contain either special characters or alphanumerics or strip of all. The string can be present in any case: lowercase, uppercase or both.
 <br>
-Read the input from STDIN and print the output to STDOUT. Do not write arbitrary strings anywhere in the program, as these contribute to the standard output and testcases will fail.
+
 <br>
 Constraints:<br>
 
