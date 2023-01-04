@@ -17,9 +17,9 @@ Output:
 <br>
 The output contains the lowest ASCII value character printed N times.
 <br>
-Sample Input2: 9856zeltab'ugzG*
+Sample Input1: 9856zeltab'ugzG*
 <br>
-Sample Output2:!! <br>
+Sample Output1:!! <br>
 Explanation2:
 <br>
 From the sample input2, given string Str is "9856ze!tab'ugzG** ASCII value of 9 is 57.<br>
@@ -37,16 +37,11 @@ u=117<br>
 g=103<br>
 z= 122<br>
 G=71<br>
-* = 42<br>
-<br>
-Among all, the highest ASCII value is of "z" at 122 and "z" occurs twice (N=2) in Str. The lowest ASCII value character in Str is 33, which is "!". So "!!" printed as output.<br>
-Sample Input2:<br>
+*= 42<br>
+Among all, the highest ASCII value is of "z" at 122 and "z" occurs twice (N=2) in Str. The lowest ASCII value character in Str is 33, which is "!". So "!!" printed as output.<br><br>
+Sample Input2:ABOVEtheheight<br>
 
-ABOVEtheheight<br>
-
-Sample Output2:<br>
-
-AA <br>
+Sample Output2:AA <br>
 
 Explanation2:
 From the sample input, given string Str is "ABOVEtheheight".<br>
